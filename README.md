@@ -1,5 +1,12 @@
 # AWS Cloud Cost Tracking Dashboard
 
+
+
+![backup-project-diagram 3](https://github.com/user-attachments/assets/8fb58d7b-df26-4731-9b2e-48d7ded69012)
+
+
+
+
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/1713758f-35dd-4f96-87ea-15e7f4043978)
 
 A serverless solution that transforms AWS Cost & Usage Reports (CUR) into an interactive cost dashboard hosted on S3. This project uses AWS native services to automate cost tracking and visualization.
