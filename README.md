@@ -73,7 +73,7 @@ Building this serverless cost tracking dashboard taught me valuable lessons abou
 **Business Understanding:**
 This project helped me see how FinOps teams operate - it's not just about tracking costs, it's about giving teams the visibility they need to make smart decisions about resource allocation and optimization.
 
-**The Cloud Dad Approach:**
+**My Cloud Approach:**
 I documented this entire build process because I believe the best way to learn is to teach. If I can explain AWS cost management to my 10-year-old daughter, I can help any team understand their cloud spending.
 
 ---
@@ -396,7 +396,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## About The Cloud Dad
+## About Me
 
 Hi, I'm **Sebastian Hidalgo** - transitioning into AWS cloud architecture after 12 years in financial services, where I was recognized as a top advisor nationally.
 
