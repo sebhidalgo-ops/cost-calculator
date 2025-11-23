@@ -1,3 +1,4 @@
+
 # AWS Cloud Cost Tracking Dashboard
 
 
@@ -365,7 +366,6 @@ http://DASHBOARD_BUCKET_NAME.s3-website-REGION.amazonaws.com
 This is v1 - here's what I'm considering for future iterations:
 
 **Alerting & Notifications:**
-- [ ] SNS/Email alerts when spending exceeds defined thresholds
 - [ ] Slack integration for real-time cost anomaly notifications
 - [ ] Daily/weekly cost summary reports
 
